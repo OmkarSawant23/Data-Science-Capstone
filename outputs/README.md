@@ -1,9 +1,3 @@
-
----
-
-# 4. `outputs/README.md`
-
-```markdown
 # Outputs
 
 This folder contains generated outputs from the IBM Data Science Capstone project.
